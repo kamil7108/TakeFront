@@ -49,7 +49,7 @@ const CarForm = () => {
       </div>
       <div>
       <Button variant="outlined" color="primary" disabled = {!checkState()} onClick = {handleClick}>
-        Primary
+        Add
       </Button>
       </div>
     </form>
